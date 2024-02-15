@@ -10,7 +10,6 @@ Yes, I made the background image cheese. :cheese:
 * Create a click event so the joke will change when the button is clicked.
 </br>
 
-https://user-images.githubusercontent.com/60168324/161668115-9a742a02-0814-43a2-aeaf-facee9e21fc1.mov
 
 ## Launch
 
