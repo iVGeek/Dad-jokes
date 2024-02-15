@@ -13,5 +13,5 @@ Yes, I made the background image cheese. :cheese:
 
 ## Launch
 
-View the Dad Jokes Project here (be prepared to chuckle): https://ivgeek.github.io/dad-jokes-project/
+View the Dad Jokes Project here (be prepared to chuckle): https://ivgeek.github.io/Dad-jokes-project/
 
